@@ -24,6 +24,9 @@ Welcome to our [project](https://jugendamt-deutschland.de), dedicated to develop
 - **Integrity**: Maintaining the highest standards of legality and ethics.
 - **Peace & Love**: Extending peace and love to the children of the world.
 
+## Functional-Aspects
+- [Functional-Aspects.md](Functional-Aspects.md)
+
 ## How to Contribute
 Interested in contributing? Here’s how you can join:
 - **Developers and Technicians**: Check our [Contribution Guidelines](LINK).
