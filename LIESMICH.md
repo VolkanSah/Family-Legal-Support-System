@@ -12,7 +12,7 @@
 - Benutzerfeedback: Einbindung eines Mechanismus für Benutzer, um Feedback zu den Ergebnissen zu geben, was besonders für die Feinabstimmung der Analysealgorithmen hilfreich ist.
 - Versionskontrolle: Speicherung und Zugriff auf frühere Versionen der analysierten Dokumente und der dazugehörigen Berichte.
 
-Technische und operationelle Aspekte
+# Technische und operationelle Aspekte
 
 ## Datenmanagement:
 - Datenhaltung: Sicheres Speichern der hochgeladenen Dokumente und der erzeugten Daten unter Einhaltung datenschutzrechtlicher Vorgaben.
