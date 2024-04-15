@@ -15,6 +15,8 @@ This project aims to develop a comprehensive system to assist families, particul
 - Quality Assurance Engineers
 - Marketing and Communication Specialists
 
+## Important, we have no money, i pay all of them 😢
+
 ## Core Values
 - **Transparency**: Open communication and clear processes.
 - **Inclusivity**: Building a product that is fair and useful for everyone.
