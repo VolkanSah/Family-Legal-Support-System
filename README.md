@@ -1,7 +1,7 @@
 # Family Legal Support System
 ![Peace & Love for the world](img.webp)
 
-[German Version](LIESMICH.md)
+[Deutsche Version](LIESMICH.md)
 
 ## Project Overview
 Welcome to our [project](https://jugendamt-deutschland.de), dedicated to developing a comprehensive system that assists families, especially parents and children, in navigating the complexities of legal and counseling environments. Currently operating in German, our aim is to create a platform that automates the analysis of family reports, reducing the financial and emotional burdens across any country and legal system.
