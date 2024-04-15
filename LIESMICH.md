@@ -1,6 +1,8 @@
 # Familienrechtliches Unterstützungssystem
 ![Peace & Love for the world](img.webp)
 
+[English Version](README.md)
+
 ## Projektübersicht
 Willkommen bei unserem [Projekt](https://jugendamt-deutschland.de), das darauf abzielt, ein umfassendes System zu entwickeln, das Familien, insbesondere Eltern und Kindern, hilft, die Komplexität von rechtlichen und beratenden Umgebungen zu navigieren. Derzeit auf Deutsch verfügbar, streben wir danach, eine Plattform zu schaffen, die die Analyse von Familienberichten automatisiert und die finanziellen sowie emotionalen Belastungen in jedem Land und Rechtssystem verringert.
 
