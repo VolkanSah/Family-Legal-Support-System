@@ -32,12 +32,10 @@ Welcome to our [project](https://jugendamt-deutschland.de), dedicated to develop
 
 ## How to Contribute
 Interested in contributing? Here’s how you can join:
-- **Developers and Technicians**: Check our [Contribution Guidelines](LINK).
-- **Legal and Ethical Experts**: Contact [Legal Team Email] for ways you can help.
-- **General Inquiries**: Email us at [Project Email].
+- **Developers and Technicians**: Check our discussions. Or write an Abuse on our site 😄
+- **Legal and Ethical Experts**: Contact [info {a} jugendamt-deutschland.de.
+- **General Inquiries**: Email us at info {a} jugendamt-deutschland.de.
 
-## License
-This project is licensed under [Give Peace a Chance].
 
 Let's work together to make a difference!
 ## Important Note
