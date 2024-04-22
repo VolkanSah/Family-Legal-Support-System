@@ -32,12 +32,9 @@ Willkommen bei unserem [Projekt](https://jugendamt-deutschland.de), das darauf a
 
 ## Wie Sie beitragen können
 Interessiert mitzuwirken? So können Sie sich einbringen:
-- **Entwickler und Techniker**: Überprüfen Sie unsere [Beitragsrichtlinien](LINK).
-- **Rechts- und Ethikexperten**: Kontaktieren Sie [E-Mail des Rechtsteams] für Möglichkeiten, wie Sie helfen können.
-- **Allgemeine Anfragen**: Schreiben Sie uns an [Projekt-E-Mail].
-
-## Lizenz
-Dieses Projekt steht unter der Lizenz [Give Peace a Chance].
+- **Entwickler und Techniker**: Überprüfen Sie unsere Diskussion oder schreiben Sie uns eine Abuse auf der Webseite 😄
+- **Rechts- und Ethikexperten**: Kontaktieren Sie info {a} jugendamt-deutschland.de. für Möglichkeiten, wie Sie helfen können.
+- **Allgemeine Anfragen**: Schreiben Sie uns an info {a} jugendamt-deutschland.de..
 
 Lassen Sie uns zusammenarbeiten, um einen Unterschied zu machen!
 ## Wichtiger Hinweis
